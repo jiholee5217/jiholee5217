@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jiho 👋
 
-<!--
-**jiholee5217/jiholee5217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Maryland with experience in full-stack development, backend systems, and data engineering.
 
-Here are some ideas to get you started:
+## Currently interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI/ML
+- Cloud computing
+- Distributed systems
+- Scalable software development
+
+## Technologies
+
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**Frameworks:** Django, Flask, FastAPI, React  
+**Data:** PostgreSQL, Pandas, NumPy  
+**Tools:** Git, Linux, Docker
+
+## Experience
+
+- Software Engineering Intern at IBM
+- Software Engineering Intern at Collins Aerospace
+- Software Engineering Intern at JJ Grand Professional
+- Research Assistant at the University of Maryland
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/jiholee5217)
+  
