@@ -11,10 +11,10 @@ I'm a Computer Science student at the University of Maryland with experience in 
 
 ## Technologies
 
-**Languages:** Python, Java, Go, C, C++, JavaScript, TypeScript, HTML/CSS, SQL  
-**Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js
-**Data:** PostgreSQL, Pandas, NumPy  
-**Tools:** Git, Linux, Docker
+- **Languages:** Python, Java, Go, C, C++, JavaScript, TypeScript, HTML/CSS, SQL
+- **Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js
+- **Data:** PostgreSQL, Pandas, NumPy
+- **Tools:** Git, Linux, Docker
 
 ## Experience
 
@@ -26,4 +26,3 @@ I'm a Computer Science student at the University of Maryland with experience in 
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/jiholee5217)
-  
