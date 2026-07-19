@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Maryland with experience in 
 
 - Distributed systems
 - AI/ML
-- Cloud computing
+- Cloud infrastructure
 - Scalable software development
 
 ## Technologies
