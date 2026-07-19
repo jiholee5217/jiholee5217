@@ -4,15 +4,15 @@ I'm a Computer Science student at the University of Maryland with experience in 
 
 ## Currently interested in
 
+- Distributed systems
 - AI/ML
 - Cloud computing
-- Distributed systems
 - Scalable software development
 
 ## Technologies
 
 **Languages:** Python, Java, Go, C, C++, JavaScript, TypeScript, HTML/CSS, SQL  
-**Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js 
+**Frameworks:** Django, Flask, FastAPI, React, Node.js, Express.js
 **Data:** PostgreSQL, Pandas, NumPy  
 **Tools:** Git, Linux, Docker
 
