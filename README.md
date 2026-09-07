@@ -4,6 +4,7 @@ I'm a Computer Science student at the University of Maryland with experience in 
 
 ## Currently interested in
 
+- Building Agents
 - Distributed systems
 - AI/ML
 - Cloud infrastructure
