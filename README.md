@@ -20,10 +20,10 @@ I'm a Computer Science student at the University of Maryland with experience in 
 
 ## Experience
 
-- Software Engineering Intern at IBM
-- Software Engineering Intern at Collins Aerospace
-- Software Engineering Intern at JJ Grand Professional
-- Research Assistant at the University of Maryland
+- Software Engineering Intern at IBM (Developing Agents, Automating Workflows, Vulnerability Detection & Remediation)
+- Software Engineering Intern at Collins Aerospace (Full-Stack Development, Software Architecture & System Design)
+- Software Engineering Intern at JJ Grand Professional (Backend Development & Automation, Data Engineering)
+- Research Assistant at the University of Maryland (Robotics Software Development, Sensor Data Processing)
 
 ## Links
 
