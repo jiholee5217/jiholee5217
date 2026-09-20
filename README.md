@@ -1,6 +1,6 @@
 # Hi, I'm Jiho 👋
 
-I'm a Computer Science student at the University of Maryland with experience in full-stack development, backend systems, and data engineering.
+I'm a Computer Science student at the University of Maryland with experience in full-stack development, building agents, automating workflows, backend systems, and data engineering.
 
 ## Currently interested in
 
